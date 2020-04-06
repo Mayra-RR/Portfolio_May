@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name":"Mayra Regalado",
+    "occupation":"Full-Stack Jr. Developer - UX/UI Design Jr.",
+    "description":"I'm an Industrial Designer trying to become a Software Developer ",
+    "image":"profilepic.jpg",
+       
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mayra-regalado/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/Mayra-RR",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    
+    "education":[
+      {
+        "school":"Universidad de Guadalajara",
+        "degree":"BD in Industrial Design",
+        "graduated":"July 2014",
+        "description":"10 semesters specializing in the concepts of Indsutrial Design with a semester aborad in Chile "
+      }
+     
+    ],
+    "courses":[
+      {
+        "course": "Full-Stack bootcamp",
+        "provider":"WemanConnect",
+        "period":"January - March 2020",
+        "description":"Student in a 3 month full-time web developer bootcamp, developed a web Survey project in JavaScript, while managing  React as the main framework with NodeJS  & MySQL databases for backend."
+      },
+      {
+        "course": "Interior Design",
+        "provider":"Brandhome",
+        "period":"Jan-July. 2019",
+        "description":"120 hrs theorical & practical specialization course in Interior Design."
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Art & Craft",
+        "title":"Project Designer ",
+        "years":"October 2018 - December 2019",
+        "description":"Won design of new line of residential closets & bathroom cabinets which helped to land the deal for production and installation at Santa-Fe Apartment Tower (GDL)."
+      },
+      {
+        "company":"Omega Group",
+        "title":"Project Manager",
+        "years":"March 2007 - February 2010",
+        "description":"Selected for the on-site supervision  at FIL Gdl 2017 working alongside the organization Committee of Expo Gdl for the assembly & installation of exhibition stands. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"50%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"85%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"MySurveys",
+        "category":"Final Project for WemanConnect (Early front-end deploy)",
+        "image":"surveys_cover.png",
+        "url":"https://mayra-rr.github.io/Surveys_Project/"
+      }
+    ]
+  }
+}
