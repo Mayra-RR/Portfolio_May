@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
     "react-scripts": "3.4.1",
-    "homepage": " https://mayra-rr.github.io/Portfolio_May"
+    "homepage": "https://mayra-rr.github.io/Portfolio_May/"
   },
   "scripts": {
     "start": "react-scripts start",
